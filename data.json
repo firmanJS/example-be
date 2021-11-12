@@ -1,0 +1,44 @@
+// example data from https://api.jsonbin.io/b/6108111bf14b8b153e05f501
+
+[
+    {
+        "catalog": "A",
+        "book": [
+            {
+                "title": "Mermaid yang terdampar",
+                "price": 90000,
+                "promo": 15000
+            },
+            {
+                "title": "Srigala berbulu domba",
+                "price": 30000,
+                "promo": 15000
+            },
+            {
+                "title": "Anak sapi yang malang",
+                "price": 20000,
+                "promo": 2000
+            }
+        ]
+    },
+    {
+        "catalog": "B",
+        "book": [
+            {
+                "title": "Terjebak di awan",
+                "price": 90000,
+                "promo": 15000
+            },
+            {
+                "title": "Borobudur",
+                "price": 30000,
+                "promo": 15000
+            },
+            {
+                "title": "Candi Prambanan",
+                "price": 25000,
+                "promo": 1000
+            }
+        ]
+    }
+]
